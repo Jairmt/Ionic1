@@ -1,0 +1,7 @@
+{
+  "name": "MoneyMap",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
